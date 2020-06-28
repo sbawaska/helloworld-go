@@ -1,1 +1,3 @@
 # helloworld-go
+
+foo
